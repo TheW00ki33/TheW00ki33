@@ -1,6 +1,5 @@
-## Hi there 👋
+<!--## Hi there 👋
 
-<!--
 **TheW00ki33/TheW00ki33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -22,7 +21,6 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=On+journey+to+become+a+great+Hacker" alt="Typing SVG" />
   </a>
 </div> -->
-
 
 <img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
 
@@ -123,9 +121,9 @@ I'm **[`TheW00ki33`](https://github.com/TheW00ki33/)**, a technology associate &
 
 <details>
 <summary>Buy Me A Coffee</summary>
-
-<p align="center"><img src="https://github.com/user-attachments/assets/b4b5c22b-2402-4c52-8a62-a298c24347dc" width="80%" height="auto"/></p>
 <!--
+<p align="center"><img src="https://github.com/user-attachments/assets/b4b5c22b-2402-4c52-8a62-a298c24347dc" width="80%" height="auto"/></p>
+--><!--
 <p align="center"><a href="https://buymeacoffee.com/[ INSERT USER ]"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
  -->
 </details>
